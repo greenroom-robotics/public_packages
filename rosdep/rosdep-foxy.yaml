@@ -1,0 +1,122 @@
+argparse:
+    ubuntu: ros-foxy-argparse
+canary:
+    ubuntu: ros-foxy-canary
+diagnostic-aggregator:
+    ubuntu: ros-foxy-diagnostic-aggregator
+diagnostic_aggregator:
+    ubuntu: ros-foxy-diagnostic-aggregator
+emuc-b202-dkms:
+    ubuntu: ros-foxy-emuc-b202-dkms
+emuc_b202_dkms:
+    ubuntu: ros-foxy-emuc-b202-dkms
+emuc-b202-utils:
+    ubuntu: ros-foxy-emuc-b202-utils
+emuc_b202_utils:
+    ubuntu: ros-foxy-emuc-b202-utils
+foxglove-bridge:
+    ubuntu: ros-foxy-foxglove-bridge
+foxglove_bridge:
+    ubuntu: ros-foxy-foxglove-bridge
+generate-parameter-library:
+    ubuntu: ros-foxy-generate-parameter-library
+generate_parameter_library:
+    ubuntu: ros-foxy-generate-parameter-library
+generate-parameter-library-example:
+    ubuntu: ros-foxy-generate-parameter-library-example
+generate_parameter_library_example:
+    ubuntu: ros-foxy-generate-parameter-library-example
+generate-parameter-library-py:
+    ubuntu: ros-foxy-generate-parameter-library-py
+generate_parameter_library_py:
+    ubuntu: ros-foxy-generate-parameter-library-py
+generate-parameter-module-example:
+    ubuntu: ros-foxy-generate-parameter-module-example
+generate_parameter_module_example:
+    ubuntu: ros-foxy-generate-parameter-module-example
+hydrodynamics:
+    ubuntu: ros-foxy-hydrodynamics
+is-core:
+    ubuntu: ros-foxy-is-core
+is_core:
+    ubuntu: ros-foxy-is-core
+is-ros2:
+    ubuntu: ros-foxy-is-ros2
+is_ros2:
+    ubuntu: ros-foxy-is-ros2
+is-ros2-mix-generator:
+    ubuntu: ros-foxy-is-ros2-mix-generator
+is_ros2_mix_generator:
+    ubuntu: ros-foxy-is-ros2-mix-generator
+launch-ext:
+    ubuntu: ros-foxy-launch-ext
+launch_ext:
+    ubuntu: ros-foxy-launch-ext
+libxmlmm:
+    ubuntu: ros-foxy-libxmlmm
+parameter-traits:
+    ubuntu: ros-foxy-parameter-traits
+parameter_traits:
+    ubuntu: ros-foxy-parameter-traits
+pwmdriver:
+    ubuntu: ros-foxy-pwmdriver
+px4-msgs:
+    ubuntu: ros-foxy-px4-msgs
+px4_msgs:
+    ubuntu: ros-foxy-px4-msgs
+rclue-rcutils:
+    ubuntu: ros-foxy-rclue-rcutils
+rclue_rcutils:
+    ubuntu: ros-foxy-rclue-rcutils
+ros2-bt-utils:
+    ubuntu: ros-foxy-ros2-bt-utils
+ros2_bt_utils:
+    ubuntu: ros-foxy-ros2-bt-utils
+rosapi:
+    ubuntu: ros-foxy-rosapi
+rosapi-msgs:
+    ubuntu: ros-foxy-rosapi-msgs
+rosapi_msgs:
+    ubuntu: ros-foxy-rosapi-msgs
+rosbridge-library:
+    ubuntu: ros-foxy-rosbridge-library
+rosbridge_library:
+    ubuntu: ros-foxy-rosbridge-library
+rosbridge-msgs:
+    ubuntu: ros-foxy-rosbridge-msgs
+rosbridge_msgs:
+    ubuntu: ros-foxy-rosbridge-msgs
+rosbridge-server:
+    ubuntu: ros-foxy-rosbridge-server
+rosbridge_server:
+    ubuntu: ros-foxy-rosbridge-server
+rosbridge-suite:
+    ubuntu: ros-foxy-rosbridge-suite
+rosbridge_suite:
+    ubuntu: ros-foxy-rosbridge-suite
+rosbridge-test-msgs:
+    ubuntu: ros-foxy-rosbridge-test-msgs
+rosbridge_test_msgs:
+    ubuntu: ros-foxy-rosbridge-test-msgs
+ros-gz-bridge:
+    ubuntu: ros-foxy-ros-gz-bridge
+ros_gz_bridge:
+    ubuntu: ros-foxy-ros-gz-bridge
+ros-gz-interfaces:
+    ubuntu: ros-foxy-ros-gz-interfaces
+ros_gz_interfaces:
+    ubuntu: ros-foxy-ros-gz-interfaces
+rosidl-generator-mypy:
+    ubuntu: ros-foxy-rosidl-generator-mypy
+rosidl_generator_mypy:
+    ubuntu: ros-foxy-rosidl-generator-mypy
+rosidl-generator-pydantic:
+    ubuntu: ros-foxy-rosidl-generator-pydantic
+rosidl_generator_pydantic:
+    ubuntu: ros-foxy-rosidl-generator-pydantic
+septentrio-gnss-driver:
+    ubuntu: ros-foxy-septentrio-gnss-driver
+septentrio_gnss_driver:
+    ubuntu: ros-foxy-septentrio-gnss-driver
+xtypes:
+    ubuntu: ros-foxy-xtypes

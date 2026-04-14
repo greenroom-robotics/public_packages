@@ -1,0 +1,122 @@
+argparse:
+    ubuntu: ros-rolling-argparse
+canary:
+    ubuntu: ros-rolling-canary
+diagnostic-aggregator:
+    ubuntu: ros-rolling-diagnostic-aggregator
+diagnostic_aggregator:
+    ubuntu: ros-rolling-diagnostic-aggregator
+emuc-b202-dkms:
+    ubuntu: ros-rolling-emuc-b202-dkms
+emuc_b202_dkms:
+    ubuntu: ros-rolling-emuc-b202-dkms
+emuc-b202-utils:
+    ubuntu: ros-rolling-emuc-b202-utils
+emuc_b202_utils:
+    ubuntu: ros-rolling-emuc-b202-utils
+foxglove-bridge:
+    ubuntu: ros-rolling-foxglove-bridge
+foxglove_bridge:
+    ubuntu: ros-rolling-foxglove-bridge
+generate-parameter-library:
+    ubuntu: ros-rolling-generate-parameter-library
+generate_parameter_library:
+    ubuntu: ros-rolling-generate-parameter-library
+generate-parameter-library-example:
+    ubuntu: ros-rolling-generate-parameter-library-example
+generate_parameter_library_example:
+    ubuntu: ros-rolling-generate-parameter-library-example
+generate-parameter-library-py:
+    ubuntu: ros-rolling-generate-parameter-library-py
+generate_parameter_library_py:
+    ubuntu: ros-rolling-generate-parameter-library-py
+generate-parameter-module-example:
+    ubuntu: ros-rolling-generate-parameter-module-example
+generate_parameter_module_example:
+    ubuntu: ros-rolling-generate-parameter-module-example
+hydrodynamics:
+    ubuntu: ros-rolling-hydrodynamics
+is-core:
+    ubuntu: ros-rolling-is-core
+is_core:
+    ubuntu: ros-rolling-is-core
+is-ros2:
+    ubuntu: ros-rolling-is-ros2
+is_ros2:
+    ubuntu: ros-rolling-is-ros2
+is-ros2-mix-generator:
+    ubuntu: ros-rolling-is-ros2-mix-generator
+is_ros2_mix_generator:
+    ubuntu: ros-rolling-is-ros2-mix-generator
+launch-ext:
+    ubuntu: ros-rolling-launch-ext
+launch_ext:
+    ubuntu: ros-rolling-launch-ext
+libxmlmm:
+    ubuntu: ros-rolling-libxmlmm
+parameter-traits:
+    ubuntu: ros-rolling-parameter-traits
+parameter_traits:
+    ubuntu: ros-rolling-parameter-traits
+pwmdriver:
+    ubuntu: ros-rolling-pwmdriver
+px4-msgs:
+    ubuntu: ros-rolling-px4-msgs
+px4_msgs:
+    ubuntu: ros-rolling-px4-msgs
+rclue-rcutils:
+    ubuntu: ros-rolling-rclue-rcutils
+rclue_rcutils:
+    ubuntu: ros-rolling-rclue-rcutils
+ros2-bt-utils:
+    ubuntu: ros-rolling-ros2-bt-utils
+ros2_bt_utils:
+    ubuntu: ros-rolling-ros2-bt-utils
+rosapi:
+    ubuntu: ros-rolling-rosapi
+rosapi-msgs:
+    ubuntu: ros-rolling-rosapi-msgs
+rosapi_msgs:
+    ubuntu: ros-rolling-rosapi-msgs
+rosbridge-library:
+    ubuntu: ros-rolling-rosbridge-library
+rosbridge_library:
+    ubuntu: ros-rolling-rosbridge-library
+rosbridge-msgs:
+    ubuntu: ros-rolling-rosbridge-msgs
+rosbridge_msgs:
+    ubuntu: ros-rolling-rosbridge-msgs
+rosbridge-server:
+    ubuntu: ros-rolling-rosbridge-server
+rosbridge_server:
+    ubuntu: ros-rolling-rosbridge-server
+rosbridge-suite:
+    ubuntu: ros-rolling-rosbridge-suite
+rosbridge_suite:
+    ubuntu: ros-rolling-rosbridge-suite
+rosbridge-test-msgs:
+    ubuntu: ros-rolling-rosbridge-test-msgs
+rosbridge_test_msgs:
+    ubuntu: ros-rolling-rosbridge-test-msgs
+ros-gz-bridge:
+    ubuntu: ros-rolling-ros-gz-bridge
+ros_gz_bridge:
+    ubuntu: ros-rolling-ros-gz-bridge
+ros-gz-interfaces:
+    ubuntu: ros-rolling-ros-gz-interfaces
+ros_gz_interfaces:
+    ubuntu: ros-rolling-ros-gz-interfaces
+rosidl-generator-mypy:
+    ubuntu: ros-rolling-rosidl-generator-mypy
+rosidl_generator_mypy:
+    ubuntu: ros-rolling-rosidl-generator-mypy
+rosidl-generator-pydantic:
+    ubuntu: ros-rolling-rosidl-generator-pydantic
+rosidl_generator_pydantic:
+    ubuntu: ros-rolling-rosidl-generator-pydantic
+septentrio-gnss-driver:
+    ubuntu: ros-rolling-septentrio-gnss-driver
+septentrio_gnss_driver:
+    ubuntu: ros-rolling-septentrio-gnss-driver
+xtypes:
+    ubuntu: ros-rolling-xtypes

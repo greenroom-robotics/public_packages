@@ -1,0 +1,122 @@
+argparse:
+    ubuntu: ros-jazzy-argparse
+canary:
+    ubuntu: ros-jazzy-canary
+diagnostic-aggregator:
+    ubuntu: ros-jazzy-diagnostic-aggregator
+diagnostic_aggregator:
+    ubuntu: ros-jazzy-diagnostic-aggregator
+emuc-b202-dkms:
+    ubuntu: ros-jazzy-emuc-b202-dkms
+emuc_b202_dkms:
+    ubuntu: ros-jazzy-emuc-b202-dkms
+emuc-b202-utils:
+    ubuntu: ros-jazzy-emuc-b202-utils
+emuc_b202_utils:
+    ubuntu: ros-jazzy-emuc-b202-utils
+foxglove-bridge:
+    ubuntu: ros-jazzy-foxglove-bridge
+foxglove_bridge:
+    ubuntu: ros-jazzy-foxglove-bridge
+generate-parameter-library:
+    ubuntu: ros-jazzy-generate-parameter-library
+generate_parameter_library:
+    ubuntu: ros-jazzy-generate-parameter-library
+generate-parameter-library-example:
+    ubuntu: ros-jazzy-generate-parameter-library-example
+generate_parameter_library_example:
+    ubuntu: ros-jazzy-generate-parameter-library-example
+generate-parameter-library-py:
+    ubuntu: ros-jazzy-generate-parameter-library-py
+generate_parameter_library_py:
+    ubuntu: ros-jazzy-generate-parameter-library-py
+generate-parameter-module-example:
+    ubuntu: ros-jazzy-generate-parameter-module-example
+generate_parameter_module_example:
+    ubuntu: ros-jazzy-generate-parameter-module-example
+hydrodynamics:
+    ubuntu: ros-jazzy-hydrodynamics
+is-core:
+    ubuntu: ros-jazzy-is-core
+is_core:
+    ubuntu: ros-jazzy-is-core
+is-ros2:
+    ubuntu: ros-jazzy-is-ros2
+is_ros2:
+    ubuntu: ros-jazzy-is-ros2
+is-ros2-mix-generator:
+    ubuntu: ros-jazzy-is-ros2-mix-generator
+is_ros2_mix_generator:
+    ubuntu: ros-jazzy-is-ros2-mix-generator
+launch-ext:
+    ubuntu: ros-jazzy-launch-ext
+launch_ext:
+    ubuntu: ros-jazzy-launch-ext
+libxmlmm:
+    ubuntu: ros-jazzy-libxmlmm
+parameter-traits:
+    ubuntu: ros-jazzy-parameter-traits
+parameter_traits:
+    ubuntu: ros-jazzy-parameter-traits
+pwmdriver:
+    ubuntu: ros-jazzy-pwmdriver
+px4-msgs:
+    ubuntu: ros-jazzy-px4-msgs
+px4_msgs:
+    ubuntu: ros-jazzy-px4-msgs
+rclue-rcutils:
+    ubuntu: ros-jazzy-rclue-rcutils
+rclue_rcutils:
+    ubuntu: ros-jazzy-rclue-rcutils
+ros2-bt-utils:
+    ubuntu: ros-jazzy-ros2-bt-utils
+ros2_bt_utils:
+    ubuntu: ros-jazzy-ros2-bt-utils
+rosapi:
+    ubuntu: ros-jazzy-rosapi
+rosapi-msgs:
+    ubuntu: ros-jazzy-rosapi-msgs
+rosapi_msgs:
+    ubuntu: ros-jazzy-rosapi-msgs
+rosbridge-library:
+    ubuntu: ros-jazzy-rosbridge-library
+rosbridge_library:
+    ubuntu: ros-jazzy-rosbridge-library
+rosbridge-msgs:
+    ubuntu: ros-jazzy-rosbridge-msgs
+rosbridge_msgs:
+    ubuntu: ros-jazzy-rosbridge-msgs
+rosbridge-server:
+    ubuntu: ros-jazzy-rosbridge-server
+rosbridge_server:
+    ubuntu: ros-jazzy-rosbridge-server
+rosbridge-suite:
+    ubuntu: ros-jazzy-rosbridge-suite
+rosbridge_suite:
+    ubuntu: ros-jazzy-rosbridge-suite
+rosbridge-test-msgs:
+    ubuntu: ros-jazzy-rosbridge-test-msgs
+rosbridge_test_msgs:
+    ubuntu: ros-jazzy-rosbridge-test-msgs
+ros-gz-bridge:
+    ubuntu: ros-jazzy-ros-gz-bridge
+ros_gz_bridge:
+    ubuntu: ros-jazzy-ros-gz-bridge
+ros-gz-interfaces:
+    ubuntu: ros-jazzy-ros-gz-interfaces
+ros_gz_interfaces:
+    ubuntu: ros-jazzy-ros-gz-interfaces
+rosidl-generator-mypy:
+    ubuntu: ros-jazzy-rosidl-generator-mypy
+rosidl_generator_mypy:
+    ubuntu: ros-jazzy-rosidl-generator-mypy
+rosidl-generator-pydantic:
+    ubuntu: ros-jazzy-rosidl-generator-pydantic
+rosidl_generator_pydantic:
+    ubuntu: ros-jazzy-rosidl-generator-pydantic
+septentrio-gnss-driver:
+    ubuntu: ros-jazzy-septentrio-gnss-driver
+septentrio_gnss_driver:
+    ubuntu: ros-jazzy-septentrio-gnss-driver
+xtypes:
+    ubuntu: ros-jazzy-xtypes

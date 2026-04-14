@@ -1,0 +1,122 @@
+argparse:
+    ubuntu: ros-humble-argparse
+canary:
+    ubuntu: ros-humble-canary
+diagnostic-aggregator:
+    ubuntu: ros-humble-diagnostic-aggregator
+diagnostic_aggregator:
+    ubuntu: ros-humble-diagnostic-aggregator
+emuc-b202-dkms:
+    ubuntu: ros-humble-emuc-b202-dkms
+emuc_b202_dkms:
+    ubuntu: ros-humble-emuc-b202-dkms
+emuc-b202-utils:
+    ubuntu: ros-humble-emuc-b202-utils
+emuc_b202_utils:
+    ubuntu: ros-humble-emuc-b202-utils
+foxglove-bridge:
+    ubuntu: ros-humble-foxglove-bridge
+foxglove_bridge:
+    ubuntu: ros-humble-foxglove-bridge
+generate-parameter-library:
+    ubuntu: ros-humble-generate-parameter-library
+generate_parameter_library:
+    ubuntu: ros-humble-generate-parameter-library
+generate-parameter-library-example:
+    ubuntu: ros-humble-generate-parameter-library-example
+generate_parameter_library_example:
+    ubuntu: ros-humble-generate-parameter-library-example
+generate-parameter-library-py:
+    ubuntu: ros-humble-generate-parameter-library-py
+generate_parameter_library_py:
+    ubuntu: ros-humble-generate-parameter-library-py
+generate-parameter-module-example:
+    ubuntu: ros-humble-generate-parameter-module-example
+generate_parameter_module_example:
+    ubuntu: ros-humble-generate-parameter-module-example
+hydrodynamics:
+    ubuntu: ros-humble-hydrodynamics
+is-core:
+    ubuntu: ros-humble-is-core
+is_core:
+    ubuntu: ros-humble-is-core
+is-ros2:
+    ubuntu: ros-humble-is-ros2
+is_ros2:
+    ubuntu: ros-humble-is-ros2
+is-ros2-mix-generator:
+    ubuntu: ros-humble-is-ros2-mix-generator
+is_ros2_mix_generator:
+    ubuntu: ros-humble-is-ros2-mix-generator
+launch-ext:
+    ubuntu: ros-humble-launch-ext
+launch_ext:
+    ubuntu: ros-humble-launch-ext
+libxmlmm:
+    ubuntu: ros-humble-libxmlmm
+parameter-traits:
+    ubuntu: ros-humble-parameter-traits
+parameter_traits:
+    ubuntu: ros-humble-parameter-traits
+pwmdriver:
+    ubuntu: ros-humble-pwmdriver
+px4-msgs:
+    ubuntu: ros-humble-px4-msgs
+px4_msgs:
+    ubuntu: ros-humble-px4-msgs
+rclue-rcutils:
+    ubuntu: ros-humble-rclue-rcutils
+rclue_rcutils:
+    ubuntu: ros-humble-rclue-rcutils
+ros2-bt-utils:
+    ubuntu: ros-humble-ros2-bt-utils
+ros2_bt_utils:
+    ubuntu: ros-humble-ros2-bt-utils
+rosapi:
+    ubuntu: ros-humble-rosapi
+rosapi-msgs:
+    ubuntu: ros-humble-rosapi-msgs
+rosapi_msgs:
+    ubuntu: ros-humble-rosapi-msgs
+rosbridge-library:
+    ubuntu: ros-humble-rosbridge-library
+rosbridge_library:
+    ubuntu: ros-humble-rosbridge-library
+rosbridge-msgs:
+    ubuntu: ros-humble-rosbridge-msgs
+rosbridge_msgs:
+    ubuntu: ros-humble-rosbridge-msgs
+rosbridge-server:
+    ubuntu: ros-humble-rosbridge-server
+rosbridge_server:
+    ubuntu: ros-humble-rosbridge-server
+rosbridge-suite:
+    ubuntu: ros-humble-rosbridge-suite
+rosbridge_suite:
+    ubuntu: ros-humble-rosbridge-suite
+rosbridge-test-msgs:
+    ubuntu: ros-humble-rosbridge-test-msgs
+rosbridge_test_msgs:
+    ubuntu: ros-humble-rosbridge-test-msgs
+ros-gz-bridge:
+    ubuntu: ros-humble-ros-gz-bridge
+ros_gz_bridge:
+    ubuntu: ros-humble-ros-gz-bridge
+ros-gz-interfaces:
+    ubuntu: ros-humble-ros-gz-interfaces
+ros_gz_interfaces:
+    ubuntu: ros-humble-ros-gz-interfaces
+rosidl-generator-mypy:
+    ubuntu: ros-humble-rosidl-generator-mypy
+rosidl_generator_mypy:
+    ubuntu: ros-humble-rosidl-generator-mypy
+rosidl-generator-pydantic:
+    ubuntu: ros-humble-rosidl-generator-pydantic
+rosidl_generator_pydantic:
+    ubuntu: ros-humble-rosidl-generator-pydantic
+septentrio-gnss-driver:
+    ubuntu: ros-humble-septentrio-gnss-driver
+septentrio_gnss_driver:
+    ubuntu: ros-humble-septentrio-gnss-driver
+xtypes:
+    ubuntu: ros-humble-xtypes

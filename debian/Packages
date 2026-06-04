@@ -3120,6 +3120,21 @@ Priority: optional
 Description: Some extras for launch tooling.
 
 Package: ros-iron-launch-ext
+Version: 1.25.0-0jammy
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 388
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_1.25.0-0jammy_amd64.deb
+Size: 71226
+MD5sum: fefc6df2ffb5cf8cfc50c8b427c4c265
+SHA1: edd19a1126f2cf9a83f60799724d5e59bad4bae0
+SHA256: 049164ca321f551ff77264cba800f4e2c0d50028c51438c5ff3584a8f72625ef
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-iron-launch-ext
 Version: 1.5.0-0jammy
 Architecture: arm64
 Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
@@ -7710,6 +7725,36 @@ Size: 86788
 MD5sum: f5f118ffcee38805c7dd065af886128e
 SHA1: 988fa4492cf69b7a65b63457be1203d465f36552
 SHA256: dcf43abc6649010213104aa05c6173556d712a6990e6caca0dc0fa4199500424
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 1.25.0-0noble
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 435
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_1.25.0-0noble_arm64.deb
+Size: 88866
+MD5sum: 91484620b078436e9810d4e73f75661e
+SHA1: 8ab2e58ca14875ebf92e22224faa6cd65e3b5cd5
+SHA256: 3554423c33407a929cc998f2ca33e8f2c39ce43e406875e83c012e5014bf3945
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 1.25.0-0noble
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 435
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_1.25.0-0noble_amd64.deb
+Size: 88872
+MD5sum: d049b07e5af68e7a99683c2170daee55
+SHA1: 6c28ed84cb66690cd687b37e4d280e4856cfb45b
+SHA256: 9e028c945a99ebe8360090547ca4d48ae109da73efc09799425407854c2f9262
 Section: misc
 Priority: optional
 Description: Some extras for launch tooling.

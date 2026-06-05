@@ -3150,6 +3150,36 @@ Priority: optional
 Description: Some extras for launch tooling.
 
 Package: ros-iron-launch-ext
+Version: 1.26.0-0jammy
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 402
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_1.26.0-0jammy_arm64.deb
+Size: 72784
+MD5sum: 10a1bd188c74489366d04d26905883d1
+SHA1: ed571ab0e92acddac841d35efc11d811bcfc954e
+SHA256: 68db5dab46a626659b3c26f5865fa1ea0f962c02f17b067abd243bb4a9f9b6da
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-iron-launch-ext
+Version: 1.26.0-0jammy
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 402
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_1.26.0-0jammy_amd64.deb
+Size: 72782
+MD5sum: 37d0b58d013f1afeb34effa17f4b7b0e
+SHA1: 33c40afa6aba9d44eb4e7f82d15d9f38ae5a37ca
+SHA256: aad54da85adca3b9c1c2aed644fc9a3ee301a14d62e568d95f5f397cf05b08c5
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-iron-launch-ext
 Version: 1.5.0-0jammy
 Architecture: arm64
 Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
@@ -7770,6 +7800,21 @@ Size: 88872
 MD5sum: d049b07e5af68e7a99683c2170daee55
 SHA1: 6c28ed84cb66690cd687b37e4d280e4856cfb45b
 SHA256: 9e028c945a99ebe8360090547ca4d48ae109da73efc09799425407854c2f9262
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 1.26.0-0noble
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 449
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_1.26.0-0noble_amd64.deb
+Size: 90676
+MD5sum: 21dd92f6e2b55bd21f79cd78ce58e0c2
+SHA1: fa37cc9bbe7bd56dbc2c21de97bb603d68a3199b
+SHA256: 775bcdac420be10d5594be42562bd2685199b06933aa9328b5a6019700b43897
 Section: misc
 Priority: optional
 Description: Some extras for launch tooling.

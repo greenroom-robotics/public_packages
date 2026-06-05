@@ -7806,6 +7806,21 @@ Description: Some extras for launch tooling.
 
 Package: ros-kilted-launch-ext
 Version: 1.26.0-0noble
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 449
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_1.26.0-0noble_arm64.deb
+Size: 90680
+MD5sum: 1b3a10445b2e5024ea74dc6a21a6d71c
+SHA1: e87d292e3899b24616d9db6fa3b2f333488cfd0e
+SHA256: 1ae66853360072d395205351bbb1d09f8e4c48ff1c8d0d05c053868eaef75a1e
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 1.26.0-0noble
 Architecture: amd64
 Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
 Installed-Size: 449

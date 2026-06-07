@@ -3180,6 +3180,21 @@ Priority: optional
 Description: Some extras for launch tooling.
 
 Package: ros-iron-launch-ext
+Version: 1.26.1-0jammy
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 402
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_1.26.1-0jammy_arm64.deb
+Size: 72764
+MD5sum: 73c7852835671f7860a776ed68a93504
+SHA1: b4079eb4637d9c957e833cb14b2b0954ccbc5434
+SHA256: 8f939d49cbd9551a8d5d2a8cec7a14e08ab07ba40788e0d0424a9c91e466ebd9
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-iron-launch-ext
 Version: 1.5.0-0jammy
 Architecture: arm64
 Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
@@ -7845,6 +7860,21 @@ Size: 90700
 MD5sum: b438cc9e7a692e853e0610830918442f
 SHA1: 83edc890285e0e8d4d27571a49ed401cda876bf2
 SHA256: d21424f715db4e7cff01cd576527a034b33402c7fc8faed033d343c68ceb072a
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 1.26.1-0noble
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 449
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_1.26.1-0noble_arm64.deb
+Size: 90704
+MD5sum: 29808d1116386ed173a4bcd984ebf8af
+SHA1: 7c31228a4e84f082e990bf27a3cce0124f4cc2b8
+SHA256: ec9e2676cc9a8c3001cf62a828e37b5b7e3ae261658071ce4e8e99e2d6c1bca6
 Section: misc
 Priority: optional
 Description: Some extras for launch tooling.

@@ -6866,6 +6866,22 @@ Description: ROS Foxglove Bridge
 
 Package: ros-kilted-foxglove-bridge
 Version: 10.5.11-0noble
+Architecture: amd64
+Maintainer: Hans-Joachim Krauch <achim@foxglove.dev>
+Installed-Size: 3240
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), zlib1g (>= 1:1.1.4), openssl, ros-kilted-ament-index-cpp, ros-kilted-rclcpp, ros-kilted-rclcpp-components, ros-kilted-resource-retriever, ros-kilted-rosgraph-msgs, ros-kilted-rosx-introspection, zlib1g-dev
+Filename: ./ros-kilted-foxglove-bridge_10.5.11-0noble_amd64.deb
+Size: 870816
+MD5sum: b75c38aa57eb10ff8ac332ac612da80d
+SHA1: a61d29a0bc4153f9782369483ba367ef538c0957
+SHA256: 2224604bf0c3ebd438f947a3ac1d475156040505d2e6c456e7f988b5da552df5
+Section: misc
+Priority: optional
+Homepage: https://github.com/foxglove/ros-foxglove-bridge
+Description: ROS Foxglove Bridge
+
+Package: ros-kilted-foxglove-bridge
+Version: 10.5.11-0noble
 Architecture: arm64
 Maintainer: Hans-Joachim Krauch <achim@foxglove.dev>
 Installed-Size: 3164

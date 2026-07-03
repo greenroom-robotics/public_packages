@@ -3554,6 +3554,36 @@ Section: misc
 Priority: optional
 Description: Some extras for launch tooling.
 
+Package: ros-iron-launch-ext
+Version: 2.0.1-0jammy
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 487
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-launch-ros, ros-iron-rclpy, ros-iron-std-srvs, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_2.0.1-0jammy_amd64.deb
+Size: 89604
+MD5sum: d078392ff1c5b7252855bf20882062ae
+SHA1: 4b07b5ec6c643d2214ada8d6db71053f577f4b3b
+SHA256: c80e6c00bff1760e7ecd9f9a18cacbe27516ab6dc7726de1db6dd41b532835d0
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-iron-launch-ext
+Version: 2.0.1-0jammy
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 487
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-iron-example-interfaces, ros-iron-launch, ros-iron-launch-ros, ros-iron-rclpy, ros-iron-std-srvs, ros-iron-xacro
+Filename: ./ros-iron-launch-ext_2.0.1-0jammy_arm64.deb
+Size: 89562
+MD5sum: ec9206478e72b6c9f34039831cac89db
+SHA1: 18d07118cab55922ea317c3f14f75787a25447b9
+SHA256: 80e736efae0502fa37e00566b5791a62366bbe0069d8f4f2e3c1ec68a7e94d86
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
 Package: ros-iron-libxmlmm
 Version: 1.0.0-0jammy
 Architecture: amd64
@@ -8254,6 +8284,36 @@ Size: 110610
 MD5sum: 2721cb41e2ab21ef0ea7878dba2c6ade
 SHA1: 4992b5bd279606e56765e3c9f6753ecc65dc1ab5
 SHA256: 9ab66605b2b6fd212bf80999ca8ee2974e74bcd82b1443c4dbb40a4a94f20971
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 2.0.1-0noble
+Architecture: amd64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 539
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-launch-ros, ros-kilted-rclpy, ros-kilted-std-srvs, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_2.0.1-0noble_amd64.deb
+Size: 110658
+MD5sum: 395fcfb9cf2e90abaa45554d02f29636
+SHA1: 72e65098be8687256e9db2f42cb3fbdbc19a7e1e
+SHA256: d81ad736a05717cea15829d46283f992dd38b81b78da2ebc3f20697f596223f3
+Section: misc
+Priority: optional
+Description: Some extras for launch tooling.
+
+Package: ros-kilted-launch-ext
+Version: 2.0.1-0noble
+Architecture: arm64
+Maintainer: Russ Webber <russ.webber@greenroomrobotics.com>
+Installed-Size: 539
+Depends: python3-git, python3-jinja2, python3-psutil, python3-pydantic, ros-kilted-example-interfaces, ros-kilted-launch, ros-kilted-launch-ros, ros-kilted-rclpy, ros-kilted-std-srvs, ros-kilted-xacro
+Filename: ./ros-kilted-launch-ext_2.0.1-0noble_arm64.deb
+Size: 110700
+MD5sum: ad5efc8f05428e8217ad9c3c1cd67216
+SHA1: 6b30caa5406b1f0cab24fdf09bb1e02bdd3e4cd6
+SHA256: e5faba8ad64a6f6096a8fb1e45a2a94a933b35023c0f60712492ec98de4b855f
 Section: misc
 Priority: optional
 Description: Some extras for launch tooling.

@@ -7330,6 +7330,38 @@ Priority: optional
 Homepage: https://github.com/Greenroom-Robotics/ROS2-SH/tree/feature/mix-idl-support
 Description: Integration Service System Handle for ROS 2
 
+Package: ros-kilted-is-ros2
+Version: 1.2.4-0noble
+Architecture: amd64
+Maintainer: Greenroom Robotics <team@greenroomrobotics.com>
+Installed-Size: 499
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0), ros-kilted-is-core (>= 1.1.4), ros-kilted-rclcpp, ros-kilted-xtypes
+Filename: ./ros-kilted-is-ros2_1.2.4-0noble_amd64.deb
+Size: 116578
+MD5sum: 3dc0f06d79f72a476b9de6b60f12665c
+SHA1: 89c20a8b55be1f388166ef8a23075ac06eb4ecd3
+SHA256: fa921cefc939871603b1adf0aef540ed4525381687770a7741028e9eab80abc1
+Section: misc
+Priority: optional
+Homepage: https://github.com/Greenroom-Robotics/ROS2-SH/tree/feature/mix-idl-support
+Description: Integration Service System Handle for ROS 2
+
+Package: ros-kilted-is-ros2
+Version: 1.2.4-0noble
+Architecture: arm64
+Maintainer: Greenroom Robotics <team@greenroomrobotics.com>
+Installed-Size: 495
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0), ros-kilted-is-core (>= 1.1.4), ros-kilted-rclcpp, ros-kilted-xtypes
+Filename: ./ros-kilted-is-ros2_1.2.4-0noble_arm64.deb
+Size: 111048
+MD5sum: f9e3136d85be25bb3ee2ee8f2f0e78e2
+SHA1: b68ea0424315ff3f61e7bcebf5f2828c28a3cb3d
+SHA256: 9d6461098fcd7ad49006e1d259f698164c727c1afd7cbcbcf44f3c55e7d0c579
+Section: misc
+Priority: optional
+Homepage: https://github.com/Greenroom-Robotics/ROS2-SH/tree/feature/mix-idl-support
+Description: Integration Service System Handle for ROS 2
+
 Package: ros-kilted-launch-ext
 Version: 1.15.0-0noble
 Architecture: arm64

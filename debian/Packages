@@ -7204,6 +7204,36 @@ Section: misc
 Priority: optional
 Description: Python to generate ROS parameter library.
 
+Package: ros-kilted-generate-parameter-library-py
+Version: 10.3.0-0noble
+Architecture: amd64
+Maintainer: Paul Gesel <paul.gesel@picknik.ai>
+Installed-Size: 319
+Depends: python3-dev, python3-jinja2, python3-typeguard, python3-yaml
+Filename: ./ros-kilted-generate-parameter-library-py_10.3.0-0noble_amd64.deb
+Size: 60806
+MD5sum: 15e8ce87cb1538d131dcf2881f42f621
+SHA1: 46dd3bc13e90c0400f4c906e78aa7d6b5f40bd99
+SHA256: 83f0852949ec7474afabdd722476797877701a4e1d4913936da11894f9ac5ed8
+Section: misc
+Priority: optional
+Description: Python to generate ROS parameter library.
+
+Package: ros-kilted-generate-parameter-library-py
+Version: 10.3.0-0noble
+Architecture: arm64
+Maintainer: Paul Gesel <paul.gesel@picknik.ai>
+Installed-Size: 319
+Depends: python3-dev, python3-jinja2, python3-typeguard, python3-yaml
+Filename: ./ros-kilted-generate-parameter-library-py_10.3.0-0noble_arm64.deb
+Size: 60812
+MD5sum: 110c771800a70b1faecc37c2b08f1925
+SHA1: baa6d584428ee1e339ad35d613e3fad9878b8806
+SHA256: 36933aca88f0e7819e1ec371fd4942a17cec85291566479ac0a1e2fa897282a8
+Section: misc
+Priority: optional
+Description: Python to generate ROS parameter library.
+
 Package: ros-kilted-hydrodynamics
 Version: 1.0.0-0noble
 Architecture: arm64

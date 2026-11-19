@@ -1,21 +1,39 @@
 name: Update Lists
 
 on:
-  workflow_dispatch:
   push:
     paths:
       - '**.deb'
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: update-lists
+  cancel-in-progress: true
 
 jobs:
   build:
     name: Update Lists
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
-    - uses: actions/checkout@v2
+    - name: Install apt-utils
+      run: sudo apt-get update && sudo apt-get install -y apt-utils
+
+    - name: Cache Checkout
+      uses: actions/cache@v3
+      with:
+        key: ${{ runner.os }}
+        path: |
+          ${{ github.workspace }}
+    - uses: actions/checkout@v4
       with: 
           lfs: 'true'
+          fetch-depth: 1
+
+    - name: Git update
+      run: |
+        git pull
 
     - name: Import GPG key
       id: import_gpg
@@ -29,12 +47,16 @@ jobs:
       run: |
         ls ./debian
         ./scripts/update.sh
+
     - name: Git config
       run: |
         git config --global user.email "ci@greenroomrobotics.com"
         git config --global user.name "Github CI"
+
     - name: Git push
       run: |
         git add .
         git commit -m "release: update package lists"
+        git fetch
+        git rebase -Xtheirs origin/main
         git push
